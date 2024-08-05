@@ -62,6 +62,12 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "font_awesome_flutter",
+      "rootUri": "file:///C:/Users/han-a/AppData/Local/Pub/Cache/hosted/pub.dev/font_awesome_flutter-10.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "leak_tracker",
       "rootUri": "file:///C:/Users/han-a/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.4",
       "packageUri": "lib/",
@@ -170,7 +176,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-08-01T02:26:03.618099Z",
+  "generated": "2024-08-01T14:47:15.893374Z",
   "generator": "pub",
   "generatorVersion": "3.4.4",
   "flutterRoot": "file:///C:/Git/flutter",
